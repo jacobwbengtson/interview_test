@@ -1,2 +1,9 @@
-# interview_test
-This repo contains test questions to be completed by potential hires in a separate branch
+Farmers Edge Interview Test
+==============================
+
+This repo contains test questions to be completed by potential Farmers Edge hires
+
+Instructions
+==============================
+
+Create a branch with your full name in snake_case
